@@ -101,6 +101,7 @@
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Neo4J][Neo4j]][Neo4j-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,7 +196,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@CardyIII](https://twitter.com/@CardyIII) - cmoten@gmail.com
+Cardy Moten III - [@CardyIII](https://twitter.com/@CardyIII) - cmoten@gmail.com
 
 Project Link: [https://github.com/cmoten/CC-Knowledge-Graph](https://github.com/cmoten/CC-Knowledge-Graph)
 
@@ -245,3 +246,5 @@ Project Link: [https://github.com/cmoten/CC-Knowledge-Graph](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Neo4j]: https://camo.githubusercontent.com/089679f776e66f81722c2afb14b2bedcb5a9489a26347a480366a448b6a3f6db/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e656f346a26636f6c6f723d343538314333266c6f676f3d4e656f346a266c6f676f436f6c6f723d464646464646266c6162656c3d
+[Neo4j-url]:https://neo4j.com
