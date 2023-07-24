@@ -195,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@@CardyIII](https://twitter.com/@CardyIII) - cmoten@gmail.com
+Your Name - [@CardyIII](https://twitter.com/@CardyIII) - cmoten@gmail.com
 
 Project Link: [https://github.com/cmoten/CC-Knowledge-Graph](https://github.com/cmoten/CC-Knowledge-Graph)
 
